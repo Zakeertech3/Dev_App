@@ -1,0 +1,131 @@
+{
+  "happy": [
+    {
+      "title": "Happy",
+      "videoId": "ZbZSe6N_BXs",
+      "artist": "Pharrell Williams",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZbZSe6N_BXs/hqdefault.jpg"
+    },
+    {
+      "title": "Can't Stop the Feeling!",
+      "videoId": "ru0K8uYEZWw",
+      "artist": "Justin Timberlake",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ru0K8uYEZWw/hqdefault.jpg"
+    },
+    {
+      "title": "Uptown Funk",
+      "videoId": "OPf0YbXqDm0",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OPf0YbXqDm0/hqdefault.jpg"
+    },
+    {
+      "title": "Dynamite",
+      "videoId": "gdZLi9oWNZg",
+      "artist": "BTS",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg"
+    },
+    {
+      "title": "Walking on Sunshine",
+      "videoId": "iPUmE-tne5U",
+      "artist": "Katrina & The Waves",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iPUmE-tne5U/hqdefault.jpg"
+    }
+  ],
+  "sad": [
+    {
+      "title": "Someone Like You",
+      "videoId": "hLQl3WQQoQ0",
+      "artist": "Adele",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hLQl3WQQoQ0/hqdefault.jpg"
+    },
+    {
+      "title": "Fix You",
+      "videoId": "k4V3Mo61fJM",
+      "artist": "Coldplay",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg"
+    },
+    {
+      "title": "Hurt",
+      "videoId": "8AHCfZTRGiI",
+      "artist": "Johnny Cash",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8AHCfZTRGiI/hqdefault.jpg"
+    },
+    {
+      "title": "All I Want",
+      "videoId": "n6BwAWiHcSg",
+      "artist": "Kodaline",
+      "thumbnailUrl": "https://i.ytimg.com/vi/n6BwAWiHcSg/hqdefault.jpg"
+    },
+    {
+      "title": "Let Her Go",
+      "videoId": "RBumgq5yVrA",
+      "artist": "Passenger",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RBumgq5yVrA/hqdefault.jpg"
+    }
+  ],
+  "energetic": [
+    {
+      "title": "Eye of the Tiger",
+      "videoId": "btPJPFnesV4",
+      "artist": "Survivor",
+      "thumbnailUrl": "https://i.ytimg.com/vi/btPJPFnesV4/hqdefault.jpg"
+    },
+    {
+      "title": "Thunderstruck",
+      "videoId": "v2AC41dglnM",
+      "artist": "AC/DC",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v2AC41dglnM/hqdefault.jpg"
+    },
+    {
+      "title": "Stronger",
+      "videoId": "Xn676-fLq7I",
+      "artist": "Kanye West",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xn676-fLq7I/hqdefault.jpg"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "videoId": "HgzGwKwLmgM",
+      "artist": "Queen",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HgzGwKwLmgM/hqdefault.jpg"
+    },
+    {
+      "title": "Centuries",
+      "videoId": "LBr7kECsjcQ",
+      "artist": "Fall Out Boy",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LBr7kECsjcQ/hqdefault.jpg"
+    }
+  ],
+  "relaxed": [
+    {
+      "title": "Weightless",
+      "videoId": "UfcAVejslrU",
+      "artist": "Marconi Union",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UfcAVejslrU/hqdefault.jpg"
+    },
+    {
+      "title": "River Flows In You",
+      "videoId": "7maJOI3QMu0",
+      "artist": "Yiruma",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7maJOI3QMu0/hqdefault.jpg"
+    },
+    {
+      "title": "Claire de Lune",
+      "videoId": "CvFH_6DNRCY",
+      "artist": "Claude Debussy",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CvFH_6DNRCY/hqdefault.jpg"
+    },
+    {
+      "title": "The Sea",
+      "videoId": "n4EQZ43-Lz4",
+      "artist": "Mree",
+      "thumbnailUrl": "https://i.ytimg.com/vi/n4EQZ43-Lz4/hqdefault.jpg"
+    },
+    {
+      "title": "Enya - Only Time",
+      "videoId": "7wfYIMyS_dI",
+      "artist": "Enya",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7wfYIMyS_dI/hqdefault.jpg"
+    }
+  ]
+}
+

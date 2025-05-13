@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoodTunes - Music for Your Mood</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>MoodTunes</h1>
+            <p class="tagline">Discover music that matches your mood</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="mood-selector">
+            <div class="container">
+                <h2>How are you feeling today?</h2>
+                <p>Select a mood to get personalized music suggestions</p>
+                
+                <div class="mood-buttons">
+                    <button class="mood-btn happy" data-mood="happy">
+                        <span class="mood-emoji">😊</span>
+                        <span class="mood-text">Happy</span>
+                    </button>
+                    <button class="mood-btn sad" data-mood="sad">
+                        <span class="mood-emoji">😢</span>
+                        <span class="mood-text">Sad</span>
+                    </button>
+                    <button class="mood-btn energetic" data-mood="energetic">
+                        <span class="mood-emoji">⚡</span>
+                        <span class="mood-text">Energetic</span>
+                    </button>
+                    <button class="mood-btn relaxed" data-mood="relaxed">
+                        <span class="mood-emoji">😌</span>
+                        <span class="mood-text">Relaxed</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <section class="results-section" id="results-section">
+            <div class="container">
+                <div id="loading" class="loading hidden">
+                    <div class="spinner"></div>
+                    <p>Finding perfect tunes for your mood...</p>
+                </div>
+                
+                <div id="error-message" class="error-message hidden">
+                    <p>Oops! Something went wrong. Please try again.</p>
+                </div>
+                
+                <div id="results-container" class="results-container hidden">
+                    <h2 id="results-title">Your Mood Playlist</h2>
+                    <div id="results-list" class="results-list">
+                        <!-- Results will be inserted here by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 MoodTunes | Created with ❤️ for music lovers</p>
+        </div>
+    </footer>
+
+    <!-- Template for video results -->
+    <template id="video-template">
+        <div class="video-item">
+            <div class="video-thumbnail">
+                <img src="" alt="" class="thumbnail-img">
+                <div class="play-icon">▶</div>
+            </div>
+            <div class="video-info">
+                <h3 class="video-title"></h3>
+                <p class="video-artist"></p>
+                <a href="" class="watch-btn" target="_blank">Watch on YouTube</a>
+            </div>
+        </div>
+    </template>
+
+    <script src="scripts/app.js"></script>
+</body>
+</html>
+
